@@ -67,9 +67,9 @@
 
 ### Github Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sameer1604&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sameer's Github Stats" width="60%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Trivii1457&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Trivii1457's Github Stats"/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer1604&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trivii1457&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Trivii1457's Top Languages">
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.

@@ -8,10 +8,6 @@
 </p>
 
 <p align="center">
-    _<img align="center" alt="visitors" src="https://gpvc.arturio.dev/sameer1604" />
-</p>
-
-<p align="center">
 <br>
 
 <a href="https://www.instagram.com/trivi_284/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;

@@ -22,7 +22,7 @@
 
 <br>
 
-<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<img align="right" height="270px" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTM3YnF4cG14dHpqZG8zNXQ1cDd2em85enhqanJqMjIycHllenF2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif">
 
 ### I am a Software Engineering and Electronics Student
 - 🔭 I’m currently working on AI proyect:grin:

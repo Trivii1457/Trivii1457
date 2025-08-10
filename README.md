@@ -23,7 +23,7 @@
 ### I am a Software Engineering and Electronics Student
 - 🔭 I’m currently working on AI proyect:grin:
 - 🌱 I’m currently learning Cloud.
-- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 📬 How to reach me: Let's go to my Gmail, Linkedin or Instagram
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 

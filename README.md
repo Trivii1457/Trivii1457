@@ -25,7 +25,7 @@
 - 🌱 I’m currently learning Cloud.
 - 📬 How to reach me: Let's go to my Gmail, Linkedin or Instagram
 - 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
 
 <br>
 

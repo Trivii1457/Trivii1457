@@ -40,13 +40,6 @@
 <br>
 
 
-
-### Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Trivii1457&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Trivii1457's GitHub Stats" />
-  
-<img src="https://streak-stats.demolab.com?user=Trivii1457&theme=dark&hide_border=true" alt="Trivii1457's GitHub Stats" />
-
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
 </p>

@@ -39,6 +39,19 @@
 <br>
 <br>
 
+### Stats  🚀🚀
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Trivii01?theme=dark&font=baloo)](https://leetcode.com/Trivii01)
+
+<br>
+
+- Click to see hackerrank Stats
+
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/trivi1457)
+
+<br>
+
+-----
 
 <p align="center">
     NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.
